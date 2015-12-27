@@ -6,28 +6,30 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\goodguy</sprite>
-    <sprite>sprites\deadguy</sprite>
-    <sprite>sprites\badguy</sprite>
-    <sprite>sprites\wall_sprite</sprite>
+    <sprite>sprites\blue_ball</sprite>
+    <sprite>sprites\red_face</sprite>
+    <sprite>sprites\brick</sprite>
     <sprite>sprites\boom</sprite>
+    <sprite>sprites\PlayAgain</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\bg1</background>
+    <background>background\GameOverBackground</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
   </paths>
   <objects name="objects">
-    <object>objects\HeadGuy</object>
-    <object>objects\badHeadGuy</object>
+    <object>objects\GoodGuy</object>
+    <object>objects\BadGuy</object>
     <object>objects\wall</object>
+    <object>objects\PlayAgainButton</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\MainRoom</room>
+    <room>rooms\GameOverRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
