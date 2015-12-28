@@ -7,10 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\blue_ball</sprite>
+    <sprite>sprites\red_ball</sprite>
     <sprite>sprites\red_face</sprite>
     <sprite>sprites\brick</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\PlayAgain</sprite>
+    <sprite>sprites\door_sprite</sprite>
+    <sprite>sprites\door_opening_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
@@ -23,9 +26,10 @@
     <object>objects\BadGuy</object>
     <object>objects\wall</object>
     <object>objects\PlayAgainButton</object>
+    <object>objects\door</object>
   </objects>
   <timelines name="timelines">
-    <timeline>timelines\timeline0</timeline>
+    <timeline>timelines\DoorOpeningTimeLine</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\MainRoom</room>
