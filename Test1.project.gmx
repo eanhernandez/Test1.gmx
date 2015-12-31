@@ -7,10 +7,10 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\blue_ball</sprite>
+    <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
     <sprite>sprites\red_face</sprite>
     <sprite>sprites\brick</sprite>
-    <sprite>sprites\boom</sprite>
     <sprite>sprites\PlayAgain</sprite>
     <sprite>sprites\door_sprite</sprite>
     <sprite>sprites\door_opening_sprite</sprite>
@@ -27,6 +27,7 @@
     <object>objects\wall</object>
     <object>objects\PlayAgainButton</object>
     <object>objects\door</object>
+    <object>objects\DeadGuy</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
