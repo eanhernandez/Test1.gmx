@@ -14,6 +14,8 @@
     <sprite>sprites\PlayAgain</sprite>
     <sprite>sprites\door_sprite</sprite>
     <sprite>sprites\door_opening_sprite</sprite>
+    <sprite>sprites\blank</sprite>
+    <sprite>sprites\teleport_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
@@ -28,6 +30,8 @@
     <object>objects\PlayAgainButton</object>
     <object>objects\door</object>
     <object>objects\DeadGuy</object>
+    <object>objects\obj_teleport</object>
+    <object>objects\obj_move_player</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
@@ -35,6 +39,7 @@
   <rooms name="rooms">
     <room>rooms\MainRoom</room>
     <room>rooms\GameOverRoom</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

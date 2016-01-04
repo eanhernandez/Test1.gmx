@@ -55,7 +55,6 @@
     <instance objName="wall" x="32" y="0" name="inst_FF10798F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="64" y="0" name="inst_6E881BA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="96" y="0" name="inst_06D736B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="0" y="32" name="inst_8EF5A8C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="0" y="64" name="inst_C2017901" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="0" y="96" name="inst_EE3B2DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="0" y="256" name="inst_B14BB0FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -71,7 +70,6 @@
     <instance objName="wall" x="224" y="352" name="inst_49BAC566" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="320" y="320" name="inst_DB26ED8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="320" y="288" name="inst_460F845B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="320" y="256" name="inst_4CE906DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="224" y="0" name="inst_11F89980" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="256" y="0" name="inst_BC4048FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="288" y="0" name="inst_8FF165B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -115,7 +113,6 @@
     <instance objName="wall" x="160" y="224" name="inst_A1BAD83C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="128" y="224" name="inst_D40AD5F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="door" x="129" y="192" name="inst_5C7F9B51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="GoodGuy" x="106" y="211" name="inst_EE3C3A66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="192" y="64" name="inst_6714715E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="128" y="64" name="inst_41ED285C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="128" y="96" name="inst_671F8A0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -123,9 +120,13 @@
     <instance objName="wall" x="64" y="64" name="inst_FB7C6E92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="32" y="64" name="inst_2AB166A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="door" x="192" y="96" name="inst_3DA9B391" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="BadGuy" x="297" y="52" name="inst_BE6828F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="BadGuy" x="297" y="340" name="inst_28DA0A71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="BadGuy" x="42" y="340" name="inst_CA79C0B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_teleport" x="0" y="32" name="inst_617FBFFA" locked="0" code="mID = &quot;ID1&quot;;&#xA;mGoto = room2;&#xA;mGotoID = &quot;ID2&quot;;&#xA;mXOffset = 32;&#xA;mYOffset = 0;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="GoodGuy" x="64" y="192" name="inst_26622830" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_move_player" x="96" y="32" name="inst_3C731EE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_teleport" x="336" y="256" name="inst_ECBFFF68" locked="0" code="mID = &quot;ID3&quot;;&#xA;mGoto = room2;&#xA;mGotoID = &quot;ID4&quot;;&#xA;mXOffset = -32;&#xA;mYOffset = 0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="BadGuy" x="32" y="320" name="inst_3937A67B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="BadGuy" x="288" y="320" name="inst_886D10E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="BadGuy" x="288" y="32" name="inst_DED767A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
