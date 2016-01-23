@@ -81,7 +81,7 @@ solid=true;
 open=1;
 visible=false;
 solid=false;
-action_set_alarm(60,0);
+action_set_alarm(30,0);
 }
 </string>
           </argument>

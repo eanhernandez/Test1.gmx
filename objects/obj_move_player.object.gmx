@@ -59,7 +59,7 @@ for (i = 0 ; i &lt; instance_number(obj_teleport) ; i+=1)
 
   if (teleport.mID = obj_move_player.mID) and (obj_move_player.mID != "")
   {
-    move_snap(32,32);
+    //move_snap(32,32);
     
     gg = instance_find(GoodGuy,0);
     gg.x = teleport.x + teleport.mXOffset;

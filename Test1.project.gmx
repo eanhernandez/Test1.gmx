@@ -41,6 +41,9 @@
     <room>rooms\GameOverRoom</room>
     <room>rooms\room2</room>
   </rooms>
+  <constants number="1">
+    <constant name="testbla1">a</constant>
+  </constants>
   <help>
     <rtf>help.rtf</rtf>
   </help>
