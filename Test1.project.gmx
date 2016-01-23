@@ -40,6 +40,7 @@
     <room>rooms\MainRoom</room>
     <room>rooms\GameOverRoom</room>
     <room>rooms\room2</room>
+    <room>rooms\room3</room>
   </rooms>
   <constants number="1">
     <constant name="testbla1">a</constant>
