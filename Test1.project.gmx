@@ -34,9 +34,9 @@
     <object>objects\wall</object>
     <object>objects\PlayAgainButton</object>
     <object>objects\door</object>
+    <object>objects\obj_move_player</object>
     <object>objects\DeadGuy</object>
     <object>objects\obj_teleport</object>
-    <object>objects\obj_move_player</object>
     <object>objects\startbutton</object>
     <object>objects\box</object>
   </objects>
