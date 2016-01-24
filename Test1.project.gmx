@@ -10,6 +10,7 @@
     <sprite>sprites\sprite10_button</sprite>
     <sprite>sprites\box_image</sprite>
     <sprite>sprites\blue_ball</sprite>
+    <sprite>sprites\bullet</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
     <sprite>sprites\red_face</sprite>
@@ -20,7 +21,6 @@
     <sprite>sprites\door_opening_sprite</sprite>
     <sprite>sprites\blank</sprite>
     <sprite>sprites\teleport_sprite</sprite>
-    <sprite>sprites\sprite13_bullet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
@@ -44,7 +44,7 @@
     <timeline>timelines\DoorOpeningTimeLine</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\startscreen</room>
+    <room>rooms\MainRoom</room>
     <room>rooms\MainRoom</room>
     <room>rooms\room2</room>
     <room>rooms\room3</room>
