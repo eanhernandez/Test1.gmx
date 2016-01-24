@@ -13,12 +13,14 @@
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
     <sprite>sprites\red_face</sprite>
+    <sprite>sprites\ball_bullet</sprite>
     <sprite>sprites\brick</sprite>
     <sprite>sprites\PlayAgain</sprite>
     <sprite>sprites\door_sprite</sprite>
     <sprite>sprites\door_opening_sprite</sprite>
     <sprite>sprites\blank</sprite>
     <sprite>sprites\teleport_sprite</sprite>
+    <sprite>sprites\sprite13_bullet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
