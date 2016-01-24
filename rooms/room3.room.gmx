@@ -123,7 +123,7 @@
     <instance objName="door" x="256" y="320" name="inst_34A5AC5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
     <instance objName="BadGuy" x="32" y="128" name="inst_2DED3B15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="BadGuy" x="224" y="160" name="inst_3310A4BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="BadGuy" x="192" y="320" name="inst_08653F7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="BadGuy" x="160" y="160" name="inst_08653F7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
