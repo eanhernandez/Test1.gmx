@@ -3,10 +3,12 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
+  <datafiles number="1" name="datafiles"/>
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite10_button</sprite>
+    <sprite>sprites\box_image</sprite>
     <sprite>sprites\blue_ball</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
@@ -34,6 +36,7 @@
     <object>objects\obj_teleport</object>
     <object>objects\obj_move_player</object>
     <object>objects\startbutton</object>
+    <object>objects\box</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
