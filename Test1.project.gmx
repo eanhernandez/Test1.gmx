@@ -28,9 +28,10 @@
     <sprite>sprites\sprite10_button</sprite>
     <sprite>sprites\box_image</sprite>
     <sprite>sprites\blue_ball</sprite>
-    <sprite>sprites\bullet</sprite>
+    <sprite>sprites\bullet_sprite</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
+    <sprite>sprites\red_ball_explode</sprite>
     <sprite>sprites\red_face</sprite>
     <sprite>sprites\ball_bullet</sprite>
     <sprite>sprites\brick</sprite>
@@ -57,6 +58,7 @@
     <object>objects\obj_teleport</object>
     <object>objects\startbutton</object>
     <object>objects\box</object>
+    <object>objects\bullet</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
