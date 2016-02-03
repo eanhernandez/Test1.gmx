@@ -151,7 +151,10 @@ room_goto(other.mGoto);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_change(DeadGuy,true);
+            <string>if !(other.dying)
+{
+    instance_change(DeadGuy,true);
+}
 </string>
           </argument>
         </arguments>
