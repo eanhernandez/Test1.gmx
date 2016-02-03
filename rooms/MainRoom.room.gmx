@@ -129,6 +129,7 @@
     <instance objName="box" x="63" y="115" name="inst_547CEA4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="BadGuy" x="96" y="320" name="inst_F669F569" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="box" x="285" y="227" name="inst_0DA8DA5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="box" x="32" y="225" name="inst_166FE0D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
