@@ -40,6 +40,8 @@
     <sprite>sprites\door_opening_sprite</sprite>
     <sprite>sprites\blank</sprite>
     <sprite>sprites\teleport_sprite</sprite>
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
@@ -59,6 +61,7 @@
     <object>objects\startbutton</object>
     <object>objects\box</object>
     <object>objects\bullet</object>
+    <object>objects\object11</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
