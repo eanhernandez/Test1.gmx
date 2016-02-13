@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>dying = false;
+            <string>
+dying = false;
 </string>
           </argument>
         </arguments>
