@@ -42,6 +42,7 @@
     <sprite>sprites\teleport_sprite</sprite>
     <sprite>sprites\sprite15</sprite>
     <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\sprite17</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\GameOverBackground</background>
