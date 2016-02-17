@@ -126,10 +126,10 @@
     <instance objName="obj_teleport" x="336" y="256" name="inst_ECBFFF68" locked="0" code="mID = &quot;ID3&quot;;&#xA;mGoto = room2;&#xA;mGotoID = &quot;ID4&quot;;&#xA;mXOffset = -32;&#xA;mYOffset = 0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="BadGuy" x="288" y="320" name="inst_886D10E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="BadGuy" x="288" y="32" name="inst_DED767A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="box" x="63" y="115" name="inst_547CEA4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="BadGuy" x="96" y="320" name="inst_F669F569" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="box" x="285" y="227" name="inst_0DA8DA5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="box" x="32" y="225" name="inst_166FE0D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="box_spikes" x="64" y="96" name="inst_0CDA70F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

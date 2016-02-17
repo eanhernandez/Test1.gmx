@@ -27,7 +27,9 @@
   <sprites name="sprites">
     <sprite>sprites\sprite10_button</sprite>
     <sprite>sprites\box_image</sprite>
+    <sprite>sprites\box_image_spikes</sprite>
     <sprite>sprites\blue_ball</sprite>
+    <sprite>sprites\blue_ball_spikes</sprite>
     <sprite>sprites\bullet_sprite</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
@@ -63,6 +65,9 @@
     <object>objects\box</object>
     <object>objects\bullet</object>
     <object>objects\object11</object>
+    <object>objects\object12</object>
+    <object>objects\box_spikes</object>
+    <object>objects\box_bullets</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
