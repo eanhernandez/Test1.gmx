@@ -3,22 +3,22 @@
   <type>0</type>
   <xorig>0</xorig>
   <yorigin>0</yorigin>
-  <colkind>1</colkind>
+  <colkind>0</colkind>
   <coltolerance>0</coltolerance>
-  <sepmasks>0</sepmasks>
+  <sepmasks>-1</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>7</bbox_left>
-  <bbox_right>31</bbox_right>
+  <bbox_left>0</bbox_left>
+  <bbox_right>18</bbox_right>
   <bbox_top>0</bbox_top>
-  <bbox_bottom>14</bbox_bottom>
+  <bbox_bottom>18</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>39</width>
-  <height>15</height>
+  <width>19</width>
+  <height>19</height>
   <frames>
     <frame index="0">images\bullet_sprite_0.png</frame>
     <frame index="1">images\bullet_sprite_1.png</frame>
@@ -32,25 +32,5 @@
     <frame index="9">images\bullet_sprite_9.png</frame>
     <frame index="10">images\bullet_sprite_10.png</frame>
     <frame index="11">images\bullet_sprite_11.png</frame>
-    <frame index="12">images\bullet_sprite_12.png</frame>
-    <frame index="13">images\bullet_sprite_13.png</frame>
-    <frame index="14">images\bullet_sprite_14.png</frame>
-    <frame index="15">images\bullet_sprite_15.png</frame>
-    <frame index="16">images\bullet_sprite_16.png</frame>
-    <frame index="17">images\bullet_sprite_17.png</frame>
-    <frame index="18">images\bullet_sprite_18.png</frame>
-    <frame index="19">images\bullet_sprite_19.png</frame>
-    <frame index="20">images\bullet_sprite_20.png</frame>
-    <frame index="21">images\bullet_sprite_21.png</frame>
-    <frame index="22">images\bullet_sprite_22.png</frame>
-    <frame index="23">images\bullet_sprite_23.png</frame>
-    <frame index="24">images\bullet_sprite_24.png</frame>
-    <frame index="25">images\bullet_sprite_25.png</frame>
-    <frame index="26">images\bullet_sprite_26.png</frame>
-    <frame index="27">images\bullet_sprite_27.png</frame>
-    <frame index="28">images\bullet_sprite_28.png</frame>
-    <frame index="29">images\bullet_sprite_29.png</frame>
-    <frame index="30">images\bullet_sprite_30.png</frame>
-    <frame index="31">images\bullet_sprite_31.png</frame>
   </frames>
 </sprite>

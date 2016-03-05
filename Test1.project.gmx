@@ -30,10 +30,12 @@
     <sprite>sprites\box_image_spikes</sprite>
     <sprite>sprites\blue_ball</sprite>
     <sprite>sprites\blue_ball_spikes</sprite>
+    <sprite>sprites\blue_ball_switch</sprite>
     <sprite>sprites\bullet_sprite</sprite>
     <sprite>sprites\boom</sprite>
     <sprite>sprites\red_ball</sprite>
     <sprite>sprites\red_ball_explode</sprite>
+    <sprite>sprites\bullet_poof</sprite>
     <sprite>sprites\red_face</sprite>
     <sprite>sprites\ball_bullet</sprite>
     <sprite>sprites\brick</sprite>
@@ -63,11 +65,11 @@
     <object>objects\obj_teleport</object>
     <object>objects\startbutton</object>
     <object>objects\box</object>
+    <object>objects\box_spikes</object>
+    <object>objects\box_bullets</object>
     <object>objects\bullet</object>
     <object>objects\object11</object>
     <object>objects\object12</object>
-    <object>objects\box_spikes</object>
-    <object>objects\box_bullets</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\DoorOpeningTimeLine</timeline>
